@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IsmailAbboud46211
+- 👋 Hi, I’m IsmailAbboud
 - 👀 I’m interested in Mobile Apps
 - 🌱 I’m currently learning Advanced topics in Flutter
 
